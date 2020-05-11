@@ -1,4 +1,7 @@
-Welcome to Instrucrtion Section. This is important as you will be using this tools in this projects many many times.
+Welcome to Instrucrtion Section. This is important as you will be using this tools in this projects many many times. So I wrote this decription for a beginner. If you already know this, skip this.
+
+###Git & Github###
+
 
 Visit this one for learning github & git
 https://github.github.com/training-kit/
@@ -6,8 +9,71 @@ https://github.github.com/training-kit/
 All about Git
 https://git-scm.com/doc
 
+
+
+
+###Anaconda###
+
 All anaconda packages and description
 https://anaconda.org/anaconda/repo
 
+
+All anaconda Help
+https://docs.anaconda.com/anaconda/
+https://conda.io/projects/conda-build/en/latest/index.html
+
 You can visit this for conda tutorial
 https://docs.conda.io/projects/conda/en/latest/commands/list.html
+https://conda.io/en/latest/
+
+
+###Python Learning###
+https://medium.com/@thanachart.rit/%E0%B8%A3%E0%B8%A7%E0%B8%A1-python-tutorial-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%87%E0%B8%B2%E0%B8%99-data-analytics-e3a91e62829d
+https://www.datacamp.com/learn-python-with-anaconda/
+https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis
+https://www.edureka.co/blog/python-anaconda-tutorial/
+http://python.berkeley.edu/learn/
+https://www.youtube.com/watch?v=YfO28Ihehbk
+https://www.youtube.com/watch?v=GRN_9YkfN5w
+https://www.youtube.com/watch?v=yE9v9rt6ziw
+https://www.youtube.com/watch?v=vmEHCJofslg
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+https://www.youtube.com/watch?v=9mAmZIRfJBs
+https://www.youtube.com/watch?v=edvg4eHi_Mw
+
+###Data Science###
+https://www.edureka.co/blog/category/data-science/
+https://kanger.dev/learn-python-data-science-courses-free/
+
+###Useful Resources###
+https://github.com/jakevdp/PythonDataScienceHandbook
+https://jakevdp.github.io/PythonDataScienceHandbook/
+https://github.com/jakevdp
+
+
+OPEN DATA CHALLENGE
+● Yelp Dataset Challenge
+○ https://www.yelp.com/dataset
+● Thailand open data
+○ https://data.go.th/Datasets.aspx
+● Microsoft open data
+○ https://msropendata.com/
+● US open data
+○ https://www.data.gov/
+● EU open data
+○ http://data.europa.eu/euodp/en/data/
+● UK open data
+○ https://data.gov.uk/
+● Amazon public dataset
+○ https://registry.opendata.aws/
+● World Bank open data
+○ https://data.worldbank.org/
+● World Health organization
+○ https://www.who.int/gho/database/en/
+● US Census Bureau
+○ http://www.census.gov/data.html
+● Dpedia
+○ https://wiki.dbpedia.org/develop/datas
+ets
+
+
