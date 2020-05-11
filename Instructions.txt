@@ -1,0 +1,13 @@
+Welcome to Instrucrtion Section. This is important as you will be using this tools in this projects many many times.
+
+Visit this one for learning github & git
+https://github.github.com/training-kit/
+
+All about Git
+https://git-scm.com/doc
+
+All anaconda packages and description
+https://anaconda.org/anaconda/repo
+
+You can visit this for conda tutorial
+https://docs.conda.io/projects/conda/en/latest/commands/list.html
